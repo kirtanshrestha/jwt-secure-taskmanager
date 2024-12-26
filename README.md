@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="120" alt="Nest Logo" /></a>
 </p>
@@ -97,3 +98,7 @@ Nest is an MIT-licensed open source project. It can grow thanks to the sponsors 
 ## License
 
 Nest is [MIT licensed](https://github.com/nestjs/nest/blob/master/LICENSE).
+=======
+# jwt-secure-taskmanager
+A robust task management API built with NestJS, showcasing CRUD operations, filtering, and JWT authentication. This project demonstrates core NestJS concepts like modules, controllers, services, and guards, making it ideal for learning or building scalable APIs.
+>>>>>>> 32a7864b42ca68ba1f4d8c76931efe820f02f396
