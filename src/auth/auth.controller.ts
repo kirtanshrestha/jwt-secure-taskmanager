@@ -20,6 +20,6 @@ export class AuthController {
     @Get()
     @UseGuards(AuthGuard)
     getProtected(@Req() req) {
-        return { message: 'protected route', user:req.user };
+        return { message: 'protected route', user: req.user };
     }
 }
